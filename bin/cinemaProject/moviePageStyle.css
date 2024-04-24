@@ -1,0 +1,45 @@
+.option1{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+#backGround1{
+	-fx-background-color:rgb(95,95,95);
+}
+
+.button1{
+	-fx-background-color: rgb(127,255,127);
+	-fx-padding:10 10;
+	-fx-font-size:12;
+	-fx-font-weight:bold;
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+.Theater{
+	-fx-font-size:20;
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+
+}
+
+#staffName2{
+	-fx-text-fill:purple;
+	-fx-font-size:32;
+	-fx-font-family:'Algerian';
+	
+}
+
+#logout4{
+	-fx-font-size:23;
+	-fx-font-family:'Algerian';
+	-fx-padding:10 20 ;
+	-fx-background-color:white;
+}
+
+#backGround6{
+	-fx-background-color:rgb(255,223,205)
+	
+}
+
+.ShowTime{
+	-fx-background-color:rgb(255,223,205)
+}
+

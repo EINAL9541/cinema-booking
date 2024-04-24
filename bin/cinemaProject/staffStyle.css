@@ -1,0 +1,20 @@
+#backGround{
+	-fx-background-color:rgb(95,95,95);
+}
+
+#lname{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+#lphoneNumber{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+#lpassword{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+#lsalary{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+

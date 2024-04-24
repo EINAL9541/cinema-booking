@@ -1,0 +1,20 @@
+#cinemaName{
+	-fx-text-fill:purple;
+	-fx-font-size:32;
+	-fx-font-family:'Algerian';
+	-fx-font-weight:bolder;
+}
+#main{
+	-fx-background-image:url(../../Image/paineye.jpg);
+}
+#btn{
+	-fx-font-size:20;
+	-fx-padding:10 20;
+}
+.labelLogIn{
+	-fx-text-fill:purple;
+}
+#err{
+	-fx-text-fill:red;
+	-fx-font-size:16;
+}

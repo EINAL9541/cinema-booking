@@ -1,0 +1,6 @@
+#dailyIncome{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%);
+	-fx-font-size:32;
+	-fx-font-family:'Algerian';
+}
+

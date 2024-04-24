@@ -1,0 +1,75 @@
+.aseat{ 
+	-fx-pref-width: 90;
+	-fx-padding: 20 30;
+	-fx-border-color: black;
+	-fx-border-width: 1.5;
+	-fx-background-color: white;
+}
+.aseat:hover{
+	-fx-background-color: grey;
+}
+.bseat{
+	-fx-pref-width: 90;
+	-fx-padding: 20 30;
+	-fx-border-color: blue;
+	-fx-border-width: 1.5;
+	-fx-background-color: white;
+}
+.bseat:hover{
+	-fx-background-color: grey;
+}
+.cseat{
+	-fx-pref-width: 90;
+	-fx-padding: 20 30;
+	-fx-border-color: red;
+	-fx-border-width: 1.5;
+	-fx-background-color: white;
+}
+.cseat:hover{
+	-fx-background-color: grey;
+}
+.cpseat{
+	-fx-pref-width: 90;
+	-fx-padding: 20 30;
+	-fx-border-color: purple;
+	-fx-border-width: 1.5;
+	-fx-background-color: white;
+}
+.cpseat:hover{
+	-fx-background-color: grey;
+}
+.btn:hover{
+	-fx-background-color: grey;
+}
+#ava{
+	-fx-padding: 10;
+	-fx-background-color: white;
+}
+#hold{
+	-fx-padding: 10;
+	-fx-background-color: orange;
+}
+#sold{
+	-fx-padding: 10;
+	-fx-background-color: red;
+}
+#main{
+	-fx-background-color: #f7c6a6;
+}
+#top{
+	-fx-background-color: grey;
+	-fx-font-size: 16;
+}
+#movName{
+	-fx-font-size: 18;
+}
+.ticket{
+	-fx-border-color: black;
+}
+
+#logOut7{
+	-fx-font-size:23;
+	-fx-font-family:'Algerian';
+	-fx-padding:10 20 ;
+	-fx-background-color:white;
+}

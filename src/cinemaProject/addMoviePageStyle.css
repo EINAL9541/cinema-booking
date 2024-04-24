@@ -1,0 +1,32 @@
+#label1{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%);
+	-fx-font-size:32;
+	-fx-font-family:'Algerian';
+}
+
+#backGround2{
+	-fx-background-color:rgb(95,95,95);
+}
+
+.gold1{
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+#button2{
+	-fx-background-color: rgb(127,255,127);
+	-fx-padding:10 10;
+	-fx-font-size:12;
+	-fx-font-weight:bold;
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+
+#button3{
+	-fx-background-color: rgb(255,0,0);
+	-fx-padding:10 10;
+	-fx-font-size:12;
+	-fx-font-weight:bold;
+	-fx-text-fill:radial-gradient(focus-angle 0.0deg, focus-distance 0.0% , center 50.0% 50.0%, radius 50.0%, #ffee58 0.0%, #fbc02d 100.0%)
+}
+.lerr{
+	-fx-text-fill: red;
+}
